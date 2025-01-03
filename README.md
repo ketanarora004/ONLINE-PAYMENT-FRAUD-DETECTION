@@ -71,7 +71,8 @@ Models were trained on 80% of the data and tested on the remaining 20%. Cross-va
 2. **Correlation Heatmap:** Relationships between features
 3. **Transaction Type Analysis:** Fraudulent vs. Common transactions
 
-![Sample Graph](link_to_graph_image_1)  
+![Screenshot 2025-01-03 101437](https://github.com/user-attachments/assets/09a836a4-c601-4034-a6c4-27a8af90de8d)
+
 ![Correlation Heatmap](link_to_graph_image_2)
 
 ---
