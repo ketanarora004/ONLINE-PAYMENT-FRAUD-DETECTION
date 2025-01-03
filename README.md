@@ -73,7 +73,8 @@ Models were trained on 80% of the data and tested on the remaining 20%. Cross-va
 
 ![Screenshot 2025-01-03 101437](https://github.com/user-attachments/assets/09a836a4-c601-4034-a6c4-27a8af90de8d)
 
-![Correlation Heatmap](link_to_graph_image_2)
+![Screenshot 2025-01-03 101446](https://github.com/user-attachments/assets/a81c7680-30dd-409f-9a02-e63b540e28bf)
+
 
 ---
 
